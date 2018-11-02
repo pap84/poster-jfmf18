@@ -12,7 +12,7 @@ output:
 # {.col-1 .theme-minimalist}
 
 ## Abstract
-Ionizing radiation are commonly used for a wide range of applications, including medical, industrial and academic purposes. As known, exposition to ionizing radiation involves inherent hazard, which must be accounted before, during and after source employment. In this context, facility design specifying shielding requirements represents one of the most important and chronologically initial procedures aimed at achieving adequate radiation protection levels. 
+Ionizing radiation is commonly used for a wide range of applications, including medical, industrial and academic purposes. As known, exposition to ionizing radiation involves inherent hazard, which must be accounted before, during and after source employment. In this context, facility design specifying shielding requirements represents one of the most important and chronologically initial procedures aimed at achieving adequate radiation protection levels. 
 This work resumes the more relevant considerations and actions followed during the design, construction and further characterization of all radiation protection issues involved for the conditioning of a research room, at underground level, devote to operating a 225kVp X-ray source.
 Preliminary design was carried out assisted by Monte Carlo simulations performed with the FLUKA main code determining primary/secondary radiation fluences; whereas direct exposure characterization was carried out using calibrated Geiger detectors. The obtained results highlight the reliability of the adapted Monte Carlo subroutine and demonstrate that very good radiation protection levels were achieved for all rooms and sectors were people are present.
 
@@ -26,9 +26,9 @@ Preliminary design was carried out assisted by Monte Carlo simulations performed
 
 A 25-225 kVp X-ray equipment has been acquired as part of a project mainly supported by the National Science & Tecnology Council (CONICET, Argentina) and the National X-ray System (SNRX, Argentina) with the aim of conducting experiments in the field of radiation physics applied to medicine. The project is intended for research and development mainly in two particular areas: *design and development of a micro-tomography (microCT) facility for non invasive studies on "hard" samples***[1]**, and *dose reinforcement and online monitoring by using Ag and Au nanoparticles***[2]**.
 
-The Faculty (FAMAF, National University of Córdoba, Argentina) provided a room at underground level for conditioning for for the research project goals. The underground level and the sourronded soil simplified the calculation of shielding barrier for radioprotection purposes. So the focus on the barriers calculations was not on rooms around but on the researchers working inside the laboratory and the upper level. The room conditions at first can be figured out at Figure 1 (left).
+The Faculty (FAMAF, National University of Córdoba, Argentina) provided a room at underground level for conditioning for the research project goals. The underground level and the sourronded soil simplified the calculation of shielding barrier for radioprotection purposes. So the focus on the barriers calculations was not on rooms around but on the researchers working inside the laboratory and the upper level. The initial conditions of the room are shown in Figure 1 (left).
 
-A preliminary design taking into account irradiation room, facility control room, sample preparation room and shielding barriers was carried out. This design is shown in Figure 1 (right). Here it can be observed control room and sample preparation room separated from the irradiation room by concrete and lead barriers.
+Taking into account irradiation room, facility control room, sample preparation room and shielding barriers a preliminary design was carried out. This design is shown in Figure 1 (right). Here it can be observed control room and sample preparation room separated from the irradiation room by concrete and lead barriers.
 
 </br>
 
@@ -89,7 +89,7 @@ The construction took almost a year and nowadays the laboratory tunning is in it
 
 Measurements have been carried out with a Geiger counter outside the bunker, in the control and sample preparation rooms. In both cases, a grid of positions was defined with the aim of establishing a 2D dose map at a distance of 1 m from the floor. 
 
-The measurements were made both for the equipment turned off and for the X-ray on. For the equipment turned on a 200 keV - 4 mA configuration was set, in order to considering the normal extreme case of X-ray beamline working. The absolute difference between measurements was calculated and divided by the background radiation (equipment turned off) for stablishing a relative value.
+The measurements were made both for the equipment turned off and for the X-ray on. For the second case a 200 keV - 4 mA configuration was set, in order to consider the normal extreme case of X-ray beamline working. The absolute difference between measurements was calculated and divided by the background radiation to stablish a relative value.
 
 Figure 4 shows on, off and relative difference measurements and calculations in control room measured in CPM with the Geiger counter, while Figure 5 shows this results for the sample preparation room.
 
