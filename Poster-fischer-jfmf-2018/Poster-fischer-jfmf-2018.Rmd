@@ -45,8 +45,8 @@ Taking into account the YXLON XPO EVO 225D System with 225 keV maximum energy ph
 </br>
 
 <center>
-![](../graficos/XY_log.png#center){height=110mm}
-![](../graficos/YZ_log.png#center){height=110mm}
+![](../graficos/XY_log.png#center){height=100mm}
+![](../graficos/YZ_log.png#center){height=100mm}
 ***Figure 2:** vertical slice (left, seen from the front of the source) of photon flux in logarithmic color scale and vertical slice (right, seen from on side of the source) of photon flux in logarithmic color scale*
 </center>
 
